@@ -21,4 +21,4 @@
 - [Глава 11 · Грибы и человек](11-fungi-and-people/README.md)
 - [Глава 12 · Карта царства Fungi](12-map-of-fungi/README.md)
 
-Источник: Telegram-тема Star Seeds, акт III. В этот раздел не входят акты I, II и IV.
+Этот раздел посвящён акту III Star Seeds; акты I, II и IV рассматриваются отдельно.
